@@ -1,1 +1,1 @@
-# sms.goyadayada.github.io
+# yadaplus.github.io
